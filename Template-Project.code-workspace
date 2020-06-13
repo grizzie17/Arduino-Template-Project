@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"vsciot-vscode.vscode-arduino",
+			"ms-vscode.cpptools"
+		]
+	},
+	"settings": {
+
+	}
+}
